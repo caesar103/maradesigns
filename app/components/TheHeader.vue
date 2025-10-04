@@ -3,7 +3,7 @@ const links = [
   { label: 'Home', to: '/' },
   { label: 'Services', to: '/services' },
   { label: 'Portfolio', to: '/portfolio' },
-  { label: 'About', to: '/about' }
+  { label: 'About Us', to: '/about' }
 ]
 </script>
 
