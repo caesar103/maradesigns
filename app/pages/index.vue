@@ -5,6 +5,7 @@
 <template>
   <div>
     <HeroSection />
+    <PortfolioSection />
   </div>
 </template>
 
