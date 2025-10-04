@@ -1,0 +1,8 @@
+# This section controls the build process on Netlify's servers.
+[build]
+  # The command to build your Nuxt site for production.
+  command = "npm run build"
+
+  # The directory that Netlify will deploy.
+  # For modern Nuxt 3/4 projects, this is always the 'dist' folder.
+  publish = "dist"
