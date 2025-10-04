@@ -2,5 +2,9 @@
 export default defineNuxtConfig({
   compatibilityDate: '2025-07-15',
   devtools: { enabled: true },
-    modules: ['@nuxtjs/tailwindcss', '@nuxt/image']
+    modules: ['@nuxtjs/tailwindcss', '@nuxt/image', 'nuxt-icon'],
+    // This line is required for Tailwind's styles to be included in your site.
+    css: [
+        '~/assets/css/main.css'
+    ]
 })
