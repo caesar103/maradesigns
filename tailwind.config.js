@@ -4,6 +4,10 @@ const { join } = require('path');
 
 /** @type {import('tailwindcss').Config} */
 module.exports = {
+
+    safelist: [
+        'bg-red-500',
+    ],
     content: [
         // This creates an absolute path to your app directory, which is the most reliable way.
         join(__dirname, './app/**/*.{vue,js,ts,jsx,tsx}'),
