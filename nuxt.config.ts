@@ -8,7 +8,7 @@ export default defineNuxtConfig({
     srcDir: 'app/',
     modules: ['@nuxtjs/tailwindcss', '@nuxt/image'],
     // This line is required for Tailwind's styles to be included in your site.
-    css: [
-        '~/assets/css/main.css'
-    ]
+    tailwindcss: {
+        cssPath: '~/assets/css/main.css',
+    }
 })
