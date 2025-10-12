@@ -1,13 +1,14 @@
 // tailwind.config.js
 
-const { join } = require('path');
-
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-
     content: [
-        // This creates an absolute path to your app directory, which is the most reliable way.
-        join(__dirname, './app/**/*.{vue,js,ts,jsx,tsx}'),
+        "./components/**/*.{js,vue,ts}",
+        "./layouts/**/*.vue",
+        "./pages/**/*.vue",
+        "./plugins/**/*.{js,ts}",
+        "./app.vue",
+        "./error.vue",
     ],
     theme: {
         extend: {
@@ -18,5 +19,5 @@ module.exports = {
             },
         },
     },
-    plugins: []
+    plugins: [],
 }
