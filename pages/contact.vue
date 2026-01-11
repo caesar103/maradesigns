@@ -42,7 +42,12 @@ useHead({
         </div>
 
         <div>
-          <form class="space-y-6 bg-slate-50 p-8 rounded-lg shadow-sm">
+          <form
+              name="contact"
+              method="POST"
+              data-netlify="true"
+              class="space-y-6 bg-slate-50 p-8 rounded-lg shadow-sm">
+            <input type="hidden">
             <div>
               <label for="name" class="block text-sm font-medium text-gray-700">Full Name</label>
               <input type="text" id="name" name="name" class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-secondary focus:border-secondary">
