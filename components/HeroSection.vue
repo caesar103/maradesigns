@@ -14,10 +14,10 @@
 
     <div class="relative z-10 p-4">
       <h1 class="text-4xl md:text-6xl font-bold tracking-tight font-serif">
-        Creating beautiful welcoming spaces
+        Creating Beautiful Welcoming Spaces
       </h1>
       <p class="mt-4 text-lg md:text-xl max-w-2xl mx-auto">
-        Helping you turn your house into a home
+        HELPING YOU TURN YOUR HOUSE INTO A HOME
       </p>
 
       <NuxtLink
