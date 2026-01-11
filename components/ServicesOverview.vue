@@ -12,8 +12,8 @@ const services = [
   },
   {
     icon: 'ph:paint-brush-broad-bold',
-    title: 'Accessory & Art Rental',
-    description: 'Using your existing furniture, we enhance the space with curated art, lighting, and accessories.'
+    title: 'Interior Decorating',
+    description: 'We plan , design and blend artistic creativity to turn your house into a home'
   }
 ]
 </script>

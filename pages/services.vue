@@ -32,14 +32,14 @@ const services = [
     ]
   },
   {
-    title: 'Accessory & Art Rental',
+    title: 'Interior Design',
     image: '/images/service-accessory.jpg',
-    description: 'If you plan to live in your home while it\'s on the market, our accessory service is the perfect fit. We work with your existing furniture, enhancing each room with a curated selection of art, rugs, lighting, and decor to elevate the space and highlight its best features.',
+    description: 'We plan , design and blend artistic creativity to turn your house into a home  ',
     features: [
-      'Integration with existing furniture',
-      'Curation of high-end accessories',
-      'Art selection and placement',
-      'Final styling and professional photography prep'
+      'Planning your Design',
+      'Color palette recommendations',
+      'Coordination with Client',
+      'Final styling and prep'
     ]
   }
 ]
