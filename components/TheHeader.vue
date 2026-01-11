@@ -12,7 +12,7 @@ const links = [
     <div class="container mx-auto px-4 h-16 flex items-center justify-between">
       <NuxtLink to="/public" class="flex items-center gap-2 text-primary hover:text-opacity-80 transition-opacity">
         <Icon name="ph:paint-brush-broad-duotone" class="w-8 h-8" />
-        <span class="text-xl font-bold">Staging Co.</span>
+        <span class="text-xl font-bold font-serif">Mara Designs</span>
       </NuxtLink>
 
       <nav class="hidden md:flex items-center gap-6">
