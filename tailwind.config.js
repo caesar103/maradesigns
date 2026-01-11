@@ -17,6 +17,10 @@ module.exports = {
                 'secondary': '#ff7f50',
                 'accent': '#f1c40f',
             },
+            fontFamily: {
+                sans: ['Lato', 'sans-serif'],
+                serif: ['Playfair Display', 'serif'],
+            }
         },
     },
     plugins: [],

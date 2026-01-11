@@ -10,6 +10,8 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@fontsource/lato": "^5.2.7",
+    "@fontsource/playfair-display": "^5.2.8",
     "@nuxt/image": "^1.11.0",
     "nuxt": "^4.1.2",
     "vue": "^3.5.22",

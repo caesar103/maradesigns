@@ -13,11 +13,11 @@
     <div class="absolute inset-0 bg-primary/70" />
 
     <div class="relative z-10 p-4">
-      <h1 class="text-4xl md:text-6xl font-bold tracking-tight">
-        Transforming Spaces, Inspiring Buyers
+      <h1 class="text-4xl md:text-6xl font-bold tracking-tight font-serif">
+        Creating beautiful welcoming space
       </h1>
       <p class="mt-4 text-lg md:text-xl max-w-2xl mx-auto">
-        We create beautiful, welcoming homes that sell faster and for a higher price.
+        Helping you turn your house into a home
       </p>
 
       <NuxtLink

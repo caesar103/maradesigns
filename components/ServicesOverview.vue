@@ -22,7 +22,7 @@ const services = [
   <section class="py-16">
     <div class="container mx-auto px-4">
       <div class="text-center mb-12">
-        <h2 class="text-4xl font-bold text-primary">Our Services</h2>
+        <h2 class="text-4xl font-bold text-primary font-serif">Our Services</h2>
         <p class="text-lg text-gray-600 mt-2">Everything you need to make your property shine.</p>
       </div>
 
@@ -31,7 +31,7 @@ const services = [
           <div class="bg-secondary text-white rounded-full w-20 h-20 flex items-center justify-center mx-auto">
             <Icon :name="service.icon" class="w-10 h-10" />
           </div>
-          <h3 class="text-2xl font-bold text-primary mt-6 mb-2">{{ service.title }}</h3>
+          <h3 class="text-2xl font-bold text-primary mt-6 mb-2 font-serif">{{ service.title }}</h3>
           <p class="text-gray-600">{{ service.description }}</p>
         </div>
       </div>
