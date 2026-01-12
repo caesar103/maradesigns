@@ -11,7 +11,7 @@ const socials = [
     <div class="container mx-auto px-4 py-8 flex flex-col sm:flex-row justify-between items-center gap-6">
       <NuxtLink to="/public" class="flex items-center gap-2">
         <Icon name="ph:paint-brush-broad-duotone" class="w-8 h-8" />
-        <span class="font-bold text-xl font-luxury">Mara Designs</span>
+        <span class="font-bold text-xl font-luxury">MaRa Designs</span>
       </NuxtLink>
 
       <div class="flex gap-4">
@@ -28,7 +28,7 @@ const socials = [
     </div>
 
     <div class="container mx-auto px-4 py-4 border-t border-white/20 text-center text-sm text-gray-300">
-      &copy; {{ new Date().getFullYear() }} Mara Designs. All Rights Reserved.
+      &copy; {{ new Date().getFullYear() }} MaRa Designs. All Rights Reserved.
     </div>
   </footer>
 </template>
