@@ -10,6 +10,8 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@fontsource/dancing-script": "^5.2.8",
+    "@fontsource/great-vibes": "^5.2.8",
     "@fontsource/lato": "^5.2.7",
     "@fontsource/playfair-display": "^5.2.8",
     "@nuxt/icon": "^2.2.0",

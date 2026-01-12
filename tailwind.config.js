@@ -20,6 +20,8 @@ module.exports = {
             fontFamily: {
                 sans: ['Lato', 'sans-serif'],
                 serif: ['Playfair Display', 'serif'],
+                script: ['Dancing Script', 'cursive'],
+                luxury: ['Great Vibes', 'cursive'],
             }
         },
     },

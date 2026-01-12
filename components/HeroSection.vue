@@ -16,7 +16,7 @@
       <h1 class="text-4xl md:text-6xl font-bold tracking-tight font-serif">
         Creating Beautiful Welcoming Spaces
       </h1>
-      <p class="mt-4 text-lg md:text-xl max-w-2xl mx-auto italic">
+      <p class=" font-script mt-4 text-lg md:text-xl max-w-2xl mx-auto italic">
         HELPING YOU TURN YOUR HOUSE INTO A HOME
       </p>
 
